@@ -1,0 +1,17 @@
+# Local Python environments (repo root)
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
